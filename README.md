@@ -8,7 +8,7 @@
 
 ## patches
 
-- alternate-colors
+- alternate colors
 - user
 
 ## install
