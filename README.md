@@ -4,7 +4,8 @@
 (if it does not build, you might need to install the `*-devel` packages also)
 
 - `libX11`
-- `libXft`
+- `libXext`
+- `libXrandr`
 
 ## patches
 
